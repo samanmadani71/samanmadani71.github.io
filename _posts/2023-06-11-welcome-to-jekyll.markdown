@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "به وبلاگ سامان مدنی خوش آمدید!"
 date:   2023-06-11 15:05:24 +0330
 categories: jekyll update
 ---
